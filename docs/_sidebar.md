@@ -10,4 +10,6 @@
     - [190709 | firstNonRepeatedCharacter](/algorithm/190709.md)
     - [190711 | characterFrequency](/algorithm/190711.md)
 
+- **Code Review**
+
 - **Error Message**
