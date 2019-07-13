@@ -5,7 +5,7 @@
     - [0729-0804](/til2019/0729-0804.md)
 
 - **Algorithm**
-    - [190709](/algorithm/190709.md)
-    - [190711](/algorithm/190711.md)
+    - [190709 | firstNonRepeatedCharacter](/algorithm/190709.md)
+    - [190711 | characterFrequency](/algorithm/190711.md)
 
 - **Error Message**
