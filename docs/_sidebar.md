@@ -10,6 +10,7 @@
     - [190709 | firstNonRepeatedCharacter](/algorithm/190709.md)
     - [190711 | characterFrequency](/algorithm/190711.md)
     - [190716 | isAnagram](/algorithm/190716.md)
+    - [190716 | reverseLinkedList](/algorithm/190718.md)
 
 - **Code Review**
     - [0708-0714](/codereview/0708-0714.md)
